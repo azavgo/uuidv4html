@@ -1,0 +1,30 @@
+button {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.uuid {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: medium;
+  } 
+
+  #uuidOutput {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    background-color: #FFFFE0;
+    text-align: center;
+    line-height: 32px;
+    float: left; 
+    height: 32px;
+    line-height: 32px;
+    width: 26%;    
+}
+
+.uuidButton {
+    float: left; 
+    height: 32px;
+    line-height: 32px;
+}
